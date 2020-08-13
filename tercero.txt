@@ -1,1 +1,1 @@
-INSERT INTO agenda_telefonica (nombre, numero) VALUES ('Roberto Jeldrez', 4886850);
+INSERT INTO agenda_telefonica (nombre, numero,direccion) VALUES ('Roberto Jeldrez', 4886850. Landaeta);
